@@ -128,4 +128,9 @@ compare expansion age vs ranking stability
 TopG — WoW Private Servers:
 https://topg.org/wow-private-servers/
 
+## PowerBI Overview
+
+<img width="1969" height="1112" alt="dashboard_preview" src="https://github.com/user-attachments/assets/db8a687f-817e-4235-b6c7-3c96ffdfc668" />
+
+
 
