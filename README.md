@@ -1,4 +1,4 @@
-# Web scraping top WoW Private Servers
+# Web Scraping Top WoW Private Servers
 
 <img width="1536" height="1024" alt="ChatGPT Image 3 Ιαν 2026, 11_30_01 μ μ" src="https://github.com/user-attachments/assets/a52a6d64-9e05-472f-9341-16388a1cc898" />
 
